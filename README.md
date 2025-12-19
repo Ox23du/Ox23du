@@ -48,8 +48,8 @@
 
 ## Hobbies
 <i>📚 Livros</i><br/>
-<i>🎮 Video Games</i><br/>
 <i>🏋️‍♂️ Esportes</i>
+<i>🎬 Filmes</i>
 
 <h2 align="left">:heart: Vamos nos conectar:</h2>
 
