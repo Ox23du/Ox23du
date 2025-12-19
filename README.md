@@ -1,5 +1,3 @@
-class SobreMim:
-    conteudo = """
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=L7" alt="L7" />
 </p>
