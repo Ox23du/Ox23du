@@ -4,11 +4,9 @@
 
 ![Olá](docs/hello.svg)
 
-# L7
-
 <h2 align="left">
   <abc>
-    <br>Opa, eu sou o Ox23du <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
+    <br>Opa, eu sou o L7 <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
     <br>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="GIF de Programador" width="500">
   </abc>
