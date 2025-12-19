@@ -14,14 +14,13 @@
 
 <h2 align="left">👨🏻‍💻 Sobre mim:</h2>
 
-- 🦈 Em constante desenvolvimento pessoal, buscando sempre evoluir como profissional e pessoa.
-
-- 💻 Engenheiro de Software | Full-Stack  
-  - JavaScript / TypeScript  
-  - Node.js  
-  - React  
-  - Desenvolvimento de sistemas escaláveis e manuteníveis  
-  - Código limpo & Arquitetura de Software
+> 🦈 Em constante desenvolvimento pessoal, buscando sempre evoluir como profissional e pessoa.  
+> 💻 Engenheiro de Software | Full-Stack  
+> - JavaScript / TypeScript  
+> - Node.js  
+> - React  
+> - Desenvolvimento de sistemas escaláveis e manuteníveis  
+> - Código limpo & Arquitetura de Software
 
 <h2 align="left">:hammer_and_wrench: Ferramentas que utilizo:</h2>
 <p align="left">
@@ -35,6 +34,7 @@
     <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
     <a href="https://www.php.net/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
     <a href="https://yarnpkg.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg" alt="yarn" width="40" height="40"/> </a>
+</p>
 
 ### Ambientes que utilizo:
 <a href="https://www.archlinux.org/"><img alt="Arch Linux" title="Arch Linux" src="https://github.com/cheesits456/cheesits456/raw/master/icons/arch.png" height="42"></a>
@@ -43,7 +43,7 @@
 <a href="https://www.npmjs.com"><img alt="NPM" title="NPM" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" height="42"></a>
 <a href="https://www.raspberrypi.org"><img alt="Raspberry Pi" title="Raspberry Pi" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png" height="42"></a>
 <a href="https://www.sublimetext.com/"><img alt="Sublime Text" title="Sublime Text" src="https://avatars1.githubusercontent.com/u/684879?s=200&v=4" height="42"></a>
-<a href="https://ubuntu.com/"><img alt="Ubuntu" title="Ubuntu" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" height="42"></a>
+<a href="https://linuxmint.com/"><img alt="Linux Mint" title="Linux Mint" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Linux_Mint_logo.svg/1024px-Linux_Mint_logo.svg.png" height="42"></a>
 
 ## Idiomas
 <i>Português｜Portuguese</i><br/>
