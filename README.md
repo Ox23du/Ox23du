@@ -15,7 +15,7 @@
 <h2 align="left">👨🏻‍💻 Sobre mim:</h2>
 
 - 🦈 Em constante desenvolvimento pessoal, buscando sempre evoluir como profissional e pessoa.
-- 
+  
 - 💻 **Engenheiro de Software | Full-Stack**
     - JavaScript / TypeScript
     - Node.js
