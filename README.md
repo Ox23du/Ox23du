@@ -12,8 +12,8 @@
   </abc>
 </h2>
 
-### 👨🏻‍💻 Sobre mim (clique em copiar para copiar o conteúdo)
 ```text
+👨🏻‍💻 Sobre mim:
 🦈 Em constante desenvolvimento pessoal, buscando sempre evoluir como profissional e pessoa.
 
 💻 Engenheiro de Software | Full-Stack
