@@ -15,3 +15,8 @@ jobs:
         with:
           USERNAME: L7
           THEME: github_dark
+
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_days: 365
+          plugin_activity_filter: all
