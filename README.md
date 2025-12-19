@@ -15,14 +15,15 @@ class SobreMim:
 </h2>
 
 <h2 align="left">👨🏻‍💻 Sobre mim:</h2>
+
 🦈 Em constante desenvolvimento pessoal, buscando sempre evoluir como profissional e pessoa.  
 💻 Engenheiro de Software | Full-Stack  
-- JavaScript / TypeScript
-- Node.js
-- React
-- Desenvolvimento de sistemas escaláveis e manuteníveis
+- JavaScript / TypeScript  
+- Node.js  
+- React  
+- Desenvolvimento de sistemas escaláveis e manuteníveis  
 - Código limpo & Arquitetura de Software
-
+  
 <h2 align="left">:hammer_and_wrench: Ferramentas que utilizo:</h2>
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
