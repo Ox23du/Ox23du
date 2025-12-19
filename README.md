@@ -12,17 +12,16 @@
   </abc>
 </h2>
 
-class SobreMim:
-    descricao = """
-🦈 Em constante desenvolvimento pessoal, buscando sempre evoluir como profissional e pessoa.
+<h2 align="left">👨🏻‍💻 Sobre mim:</h2>
 
-💻 Engenheiro de Software | Full-Stack
-- JavaScript / TypeScript
-- Node.js
-- React
-- Desenvolvimento de sistemas escaláveis e manuteníveis
-- Código limpo & Arquitetura de Software
-    """
+- 🦈 Em constante desenvolvimento pessoal, buscando sempre evoluir como profissional e pessoa.
+
+- 💻 Engenheiro de Software | Full-Stack  
+  - JavaScript / TypeScript  
+  - Node.js  
+  - React  
+  - Desenvolvimento de sistemas escaláveis e manuteníveis  
+  - Código limpo & Arquitetura de Software
 
 <h2 align="left">:hammer_and_wrench: Ferramentas que utilizo:</h2>
 <p align="left">
