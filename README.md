@@ -14,15 +14,6 @@
     - Desenvolvimento de sistemas escaláveis e manuteníveis
     - Clean Code & Software Architecture
 
-## Status
-
-<p align="left">
-  <img src="./profile-3d-contrib/profile-green-animate.svg" width="600" />
-</p>
-
-<p align="left">
-  <img src="./status/radar.svg" width="400" />
-</p>
 
 ## Idiomas
 <i>Português｜Portuguese</i><br/>
