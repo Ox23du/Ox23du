@@ -60,7 +60,7 @@
 <i>🏋️‍♂️ Esportes</i><br/>
 <i>🎬 Filmes</i>
 
-<h2 align="left">:heart: Vamos nos conectar:</h2>
+<h2 align="left">:heart: Vamos nos conectar</h2>
 
 <p align="left">
   <a href="https://t.me/Daemon_404">
