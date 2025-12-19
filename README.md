@@ -22,7 +22,7 @@
     - Desenvolvimento de sistemas escaláveis e manuteníveis
     - Código limpo & Arquitetura de Software
 
-<h2 align="left">:hammer_and_wrench: Tecnologias e Ferramentas que utilizo:</h2>
+<h2 align="left">:hammer_and_wrench: Ferramentas que utilizo:</h2>
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
@@ -34,8 +34,6 @@
     <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
     <a href="https://www.php.net/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
     <a href="https://yarnpkg.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg" alt="yarn" width="40" height="40"/> </a>
-    <a href="https://cloud.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google cloud" width="40" height="40"/> </a>
-</p>
 
 ### Ambientes que utilizo:
 <a href="https://www.archlinux.org/"><img alt="Arch Linux" title="Arch Linux" src="https://github.com/cheesits456/cheesits456/raw/master/icons/arch.png" height="42"></a>
