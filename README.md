@@ -14,17 +14,37 @@
 
 <h2 align="left">👨🏻‍💻 Sobre mim:</h2>
 
+<h2 align="left">👨🏻‍💻 Sobre mim:</h2>
+
+- 🦈 Em constante desenvolvimento pessoal, buscando sempre evoluir como profissional e pessoa.
+
+- 💻 Engenheiro de Software | Full-Stack  
+  - JavaScript / TypeScript  
+  - Node.js  
+  - React  
+  - Desenvolvimento de sistemas escaláveis e manuteníveis  
+  - Código limpo & Arquitetura de Software
+
+```python
 class WhoAmI:
-    user = 'Ox23du'
-    current_work = 'Engenheiro de Software | Full-Stack'
-    skills = [
-        'JavaScript / TypeScript',
-        'Node.js',
-        'React',
-        'Desenvolvimento de sistemas escaláveis e manuteníveis',
-        'Código limpo & Arquitetura de Software'
+    user = 'Haany Ali'
+    current_work = 'Writing code'
+    hobbies = [
+        'Drawing',
+        'Watching Anime',
+        'Reading Sci-Fi Novels',
+        'Being up all Night chasing that ONE BUG...'
     ]
-    motto = 'Em constante desenvolvimento pessoal, buscando sempre evoluir como profissional e pessoa.'
+
+    def getCity():
+        return Vancouver_Canada()
+
+    def Ambitions():
+        LearnJapanese()
+        CreateSkyNet()
+        FinishMyNovel()
+        # Assume 10 more awesome ambitions here ;)
+
 
 <h2 align="left">:hammer_and_wrench: Ferramentas que utilizo:</h2>
 <p align="left">
