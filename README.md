@@ -14,14 +14,17 @@
 
 <h2 align="left">👨🏻‍💻 Sobre mim:</h2>
 
-- 🦈 Em constante desenvolvimento pessoal, buscando sempre evoluir como profissional e pessoa.
-  
-- 💻 **Engenheiro de Software | Full-Stack**
-    - JavaScript / TypeScript
-    - Node.js
-    - React
-    - Desenvolvimento de sistemas escaláveis e manuteníveis
-    - Código limpo & Arquitetura de Software
+class WhoAmI:
+    user = 'Ox23du'
+    current_work = 'Engenheiro de Software | Full-Stack'
+    skills = [
+        'JavaScript / TypeScript',
+        'Node.js',
+        'React',
+        'Desenvolvimento de sistemas escaláveis e manuteníveis',
+        'Código limpo & Arquitetura de Software'
+    ]
+    motto = 'Em constante desenvolvimento pessoal, buscando sempre evoluir como profissional e pessoa.'
 
 <h2 align="left">:hammer_and_wrench: Ferramentas que utilizo:</h2>
 <p align="left">
