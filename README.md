@@ -6,8 +6,6 @@
   <img src="docs/hello.svg" width="600"/>
 </p>
 
-<h2 align="center">Daemon</h2>
-
 <br>
 
 <p align="center">
