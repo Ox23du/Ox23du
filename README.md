@@ -2,7 +2,9 @@
   <img src="https://komarev.com/ghpvc/?username=L7" alt="L7" />
 </p>
 
-![Olá](docs/hello.svg)
+<p align="center">
+  <img src="docs/hello.svg" width="600"/>
+</p>
 
 <h2 align="center">Daemon</h2>
 
