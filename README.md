@@ -5,7 +5,7 @@
 <br>
 
 <p align="center">
-  <img src="https://i.gifer.com/3BBS.gif" width"700"/>
+  <img src="https://i.gifer.com/3BBS.gif" width"900"/>
 </p>
 
 <h2 align="left">👨🏻‍💻 Sobre mim:</h2>
