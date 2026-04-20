@@ -9,7 +9,7 @@
 <br>
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm9yemtucTVwOTdpNzlybG50dXZibGIwbG5tZnBtNWl3a2x5NDh6cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FNfcWhlz0GTkzcnZWh/giphy.gif" width="900"/>
+  <img src="https://i.gifer.com/77Is.gif" width="900"/>
 </p>
 
 <h2 align="left">👨🏻‍💻 Sobre mim:</h2>
