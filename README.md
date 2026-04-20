@@ -8,6 +8,10 @@
 
 <br>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="600"/>
+</p>
+
 <h2 align="left">👨🏻‍💻 Sobre mim:</h2>
 
 > 🦈 Em constante desenvolvimento pessoal, buscando sempre evoluir como profissional e pessoa.  
