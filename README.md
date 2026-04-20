@@ -4,7 +4,7 @@
 
 ![Olá](docs/hello.svg)
 
-<h2 align="left">
+<h2 align="center">
   Opa, eu sou o Daemon 
 
  <p align="center">
