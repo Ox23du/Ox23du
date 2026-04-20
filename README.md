@@ -85,7 +85,7 @@
 <h2 align="left">🐍 Cobrinha das contribuições</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/L7/L7/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="[https://raw.githubusercontent.com/L7/L7/output/github-contribution-grid-snake-dark.svg](https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg)" alt="Snake animation" />
 </p>
 
 <h2 align="left">🌍 Idiomas</h2>
