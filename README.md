@@ -2,10 +2,6 @@
   <img src="https://komarev.com/ghpvc/?username=L7" alt="L7" />
 </p>
 
-<p align="center">
-  <img src="docs/hello.svg" width="600"/>
-</p>
-
 <br>
 
 <p align="center">
