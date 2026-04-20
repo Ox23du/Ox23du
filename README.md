@@ -82,12 +82,6 @@
   </a>
 </p>
 
-<h2 align="left">🐍 Cobrinha das contribuições</h2>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/0x23du/0x23du/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
 <h2 align="left">🌍 Idiomas</h2>
 
 <i>Português｜Portuguese</i><br/>
