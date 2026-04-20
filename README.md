@@ -9,7 +9,7 @@
 <br>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="600"/>
+  <img src="https://tenor.com/pt-BR/view/hacker-pc-meme-matrix-codes-gif-16730883" width="600"/>
 </p>
 
 <h2 align="left">👨🏻‍💻 Sobre mim:</h2>
