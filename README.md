@@ -9,7 +9,7 @@
 <br>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKsQ8UQF9C3fVQY/giphy.gif" width="900"/>
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="600"/>
 </p>
 
 <h2 align="left">👨🏻‍💻 Sobre mim:</h2>
