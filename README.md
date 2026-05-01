@@ -53,8 +53,8 @@
 <h3>🌍 Idiomas</h3>
 
 Português 🇧🇷  
-Russo 🇷🇺  
-Inglês 🇺🇸  
+Русский 🇷🇺  
+English 🇺🇸  
 
 ---
 
