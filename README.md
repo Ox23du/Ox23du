@@ -44,7 +44,6 @@
   <a href="https://github.com/"><img src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" height="42"></a>
   <a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="42"></a>
   <a href="https://www.npmjs.com"><img src="https://raw.githubusercontent.com/github/explore/main/topics/npm/npm.png" height="42"></a>
-  <a href="https://www.raspberrypi.org"><img src="https://raw.githubusercontent.com/github/explore/main/topics/raspberry-pi/raspberry-pi.png" height="42"></a>
   <a href="https://www.sublimetext.com/"><img src="https://avatars.githubusercontent.com/u/684879?s=200&v=4" height="42"></a>
   <a href="https://ubuntu.com/"><img src="https://raw.githubusercontent.com/github/explore/main/topics/ubuntu/ubuntu.png" height="42"></a>
 </p>
