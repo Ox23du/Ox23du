@@ -13,11 +13,12 @@
 > 🦈 Em constante desenvolvimento pessoal, buscando sempre evoluir como profissional e pessoa.  
 > 💻 Engenheiro de Software | Full-Stack  
 > • JavaScript / TypeScript  
+> • Python  
 > • Node.js  
 > • React  
 > • Desenvolvimento de sistemas escaláveis e manuteníveis  
-> • Código limpo & Arquitetura de Software  
-
+> • Código limpo & Arquitetura de Software
+> • Pentest & Análise de Vulnerabilidades
 ---
 
 <h2 align="left">🛠️ Ferramentas que utilizo:</h2>
@@ -29,7 +30,6 @@
   <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/></a>
   <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/></a>
   <a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/></a>
-  <a href="https://www.java.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/></a>
   <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a>
   <a href="https://www.php.net/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/></a>
   <a href="https://yarnpkg.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg" width="40"/></a>
