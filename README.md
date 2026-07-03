@@ -19,6 +19,7 @@
 > • Desenvolvimento de sistemas escaláveis e manuteníveis  
 > • Código limpo & Arquitetura de Software
 > • Pentest & Análise de Vulnerabilidades
+
 ---
 
 <h2 align="left">🛠️ Ferramentas que utilizo:</h2>
