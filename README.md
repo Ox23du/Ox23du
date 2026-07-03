@@ -17,7 +17,6 @@
 > • Node.js  
 > • React  
 > • Desenvolvimento de sistemas escaláveis e manuteníveis  
-> • Código limpo & Arquitetura de Software
 > • Pentest & Análise de Vulnerabilidades
 
 ---
