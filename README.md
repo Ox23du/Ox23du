@@ -8,19 +8,6 @@
   <img src="https://i.gifer.com/3BBS.gif" width="900"/>
 </p>
 
-<h3 align="center">
-  Software Engineer | Full-Stack Developer
-</h3>
-
-<p align="center">
-  Focused on scalable systems, clean architecture and application security.
-</p>
-
-<p align="center">
-  TypeScript • React • Node.js • Python • Pentest • Vulnerability Analysis
-</p>
-
----
 
 <h2 align="left">👨🏻‍💻 About me:</h2>
 
