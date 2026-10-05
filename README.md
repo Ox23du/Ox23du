@@ -58,15 +58,7 @@
 
 ---
 
-<h3 align="left">🐧 Operating Systems:</h3>
-
-<p align="left">
-  <a href="https://www.archlinux.org/"><img src="https://github.com/cheesits456/cheesits456/raw/master/icons/arch.png" height="42"></a>
-  <a href="https://ubuntu.com/"><img src="https://raw.githubusercontent.com/github/explore/main/topics/ubuntu/ubuntu.png" height="42"></a>
-  <a href="https://linuxmint.com/"><img src="https://cdn.simpleicons.org/linuxmint/87CF3E" height="42"></a>
-</p>
-
----
+<h3 align="left">📊 GitHub Stats:</h3>
 
 <p align="left">
   <img
@@ -75,10 +67,20 @@
     alt="Daemon's GitHub Stats"
   />
   <img
-    width="44%"
+    width="48%"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ox23du&layout=compact&theme=github_dark&hide_border=true"
     alt="Most Used Languages"
   />
+</p>
+
+---
+
+<h3 align="left">🐧 Operating Systems:</h3>
+
+<p align="left">
+  <a href="https://www.archlinux.org/"><img src="https://github.com/cheesits456/cheesits456/raw/master/icons/arch.png" height="42"></a>
+  <a href="https://ubuntu.com/"><img src="https://raw.githubusercontent.com/github/explore/main/topics/ubuntu/ubuntu.png" height="42"></a>
+  <a href="https://linuxmint.com/"><img src="https://cdn.simpleicons.org/linuxmint/87CF3E" height="42"></a>
 </p>
 
 ---
