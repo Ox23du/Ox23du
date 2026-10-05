@@ -1,5 +1,5 @@
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=L7" alt="L7" />
+  <img src="https://komarev.com/ghpvc/?username=Ox23du" alt="Ox23du" />
 </p>
 
 <br>
@@ -8,6 +8,14 @@
   <img src="https://i.gifer.com/3BBS.gif" width="900"/>
 </p>
 
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Software+Engineer+%7C+Full-Stack;JavaScript+%2F+TypeScript+%7C+React+%7C+Node.js;Scalable+and+maintainable+systems;Pentest+%26+Vulnerability+Analysis"
+    alt="Typing SVG"
+  />
+</p>
+
+---
 
 <h2 align="left">👨🏻‍💻 About me:</h2>
 
@@ -60,6 +68,28 @@
 
 ---
 
+<h3 align="left">📊 GitHub Stats:</h3>
+
+<p align="left">
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=Ox23du&show_icons=true&theme=github_dark&hide_border=true"
+  />
+
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ox23du&layout=compact&theme=github_dark&hide_border=true"
+  />
+</p>
+
+<p align="left">
+  <img
+    src="https://streak-stats.demolab.com/?user=Ox23du&theme=github-dark-blue&hide_border=true"
+  />
+</p>
+
+---
+
 <h3>🌍 Languages</h3>
 
 Português 🇧🇷  
@@ -72,7 +102,7 @@ English 🇺🇸
 
 📚 Books  
 🏋️‍♂️ Sports  
-🎬 Films 
+🎬 Films  
 
 ---
 
