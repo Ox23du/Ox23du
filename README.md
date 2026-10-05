@@ -54,7 +54,7 @@
   <a href="https://ubuntu.com/"><img src="https://raw.githubusercontent.com/github/explore/main/topics/ubuntu/ubuntu.png" height="42"></a>
   <a href="https://linuxmint.com/"><img src="https://cdn.simpleicons.org/linuxmint/87CF3E" height="42"></a>
 </p>
----
+
 
 <h3>🌍 Languages</h3>
 
