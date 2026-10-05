@@ -8,20 +8,20 @@
   <img src="https://i.gifer.com/3BBS.gif" width"900"/>
 </p>
 
-<h2 align="left">👨🏻‍💻 Sobre mim:</h2>
+<h2 align="left">👨🏻‍💻 About me:</h2>
 
-> 🦈 Em constante desenvolvimento pessoal, buscando sempre evoluir como profissional e pessoa.  
-> 💻 Engenheiro de Software | Full-Stack  
+> 🦈 Constantly developing personally, always striving to grow as a professional and as an individual.  
+> 💻 Software Engineer | Full-Stack  
 > • JavaScript / TypeScript  
 > • Python  
 > • Node.js  
 > • React  
-> • Desenvolvimento de sistemas escaláveis e manuteníveis  
-> • Pentest & Análise de Vulnerabilidades
+> • Development of scalable and maintainable systems
+> • Pentest & Vulnerability Analysis
 
 ---
 
-<h2 align="left">🛠️ Ferramentas que utilizo:</h2>
+<h2 align="left">🛠️ Tools I use:</h2>
 
 <p align="left">
   <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/></a>
@@ -37,7 +37,7 @@
 
 ---
 
-<h3 align="left">💻 Ambientes que utilizo:</h3>
+<h3 align="left">💻 Environments I use:</h3>
 
 <p align="left">
   <a href="https://www.archlinux.org/"><img src="https://github.com/cheesits456/cheesits456/raw/master/icons/arch.png" height="42"></a>
@@ -50,7 +50,7 @@
 
 ---
 
-<h3>🌍 Idiomas</h3>
+<h3>🌍 Languages</h3>
 
 Português 🇧🇷  
 Русский 🇷🇺  
@@ -60,13 +60,13 @@ English 🇺🇸
 
 <h3>🎯 Hobbies</h3>
 
-📚 Livros  
-🏋️‍♂️ Esportes  
-🎬 Filmes  
+📚 Books  
+🏋️‍♂️ Sports  
+🎬 Films 
 
 ---
 
-<h2 align="left">❤️ Vamos nos conectar</h2>
+<h2 align="left">❤️ Let's connect</h2>
 
 <p align="left">
   <a href="https://t.me/Daemon_404">
