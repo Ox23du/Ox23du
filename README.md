@@ -75,7 +75,7 @@
     alt="Daemon's GitHub Stats"
   />
   <img
-    width="48%"
+    width="44%"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ox23du&layout=compact&theme=github_dark&hide_border=true"
     alt="Most Used Languages"
   />
