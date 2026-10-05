@@ -8,8 +8,6 @@
   <img src="https://i.gifer.com/3BBS.gif" width="900"/>
 </p>
 
-<h1 align="center">Ox23du</h1>
-
 <h3 align="center">
   Software Engineer | Full-Stack Developer
 </h3>
