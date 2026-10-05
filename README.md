@@ -46,6 +46,7 @@
   <a href="https://www.npmjs.com"><img src="https://raw.githubusercontent.com/github/explore/main/topics/npm/npm.png" height="42"></a>
   <a href="https://www.sublimetext.com/"><img src="https://avatars.githubusercontent.com/u/684879?s=200&v=4" height="42"></a>
   <a href="https://ubuntu.com/"><img src="https://raw.githubusercontent.com/github/explore/main/topics/ubuntu/ubuntu.png" height="42"></a>
+  <a href="https://linuxmint.com/"> <img src="https://raw.githubusercontent.com/github/explore/main/topics/linux-mint/linux-mint.png" height="42"></a>
 </p>
 
 ---
