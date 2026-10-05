@@ -68,8 +68,6 @@
 
 ---
 
-<h3 align="left">📊 GitHub Stats:</h3>
-
 <p align="left">
   <img
     width="48%"
