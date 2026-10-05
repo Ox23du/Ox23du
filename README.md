@@ -46,6 +46,7 @@
   <a href="https://www.sublimetext.com/"><img src="https://avatars.githubusercontent.com/u/684879?s=200&v=4" height="42"></a>
 </p>
 
+---
 
 <h3 align="left">🐧 Operating Systems:</h3>
 
@@ -55,6 +56,7 @@
   <a href="https://linuxmint.com/"><img src="https://cdn.simpleicons.org/linuxmint/87CF3E" height="42"></a>
 </p>
 
+---
 
 <h3>🌍 Languages</h3>
 
