@@ -21,7 +21,7 @@
 
 ---
 
-<h2 align="left">🛠️ Tools I use:</h2>
+<h2 align="left">🧰 Technologies I use:</h2>
 
 <p align="left">
   <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/></a>
@@ -32,23 +32,29 @@
   <a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/></a>
   <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a>
   <a href="https://www.php.net/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/></a>
-  <a href="https://yarnpkg.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg" width="40"/></a>
 </p>
 
 ---
 
-<h3 align="left">💻 Environments I use:</h3>
+<h3 align="left">🛠️ Tools & Platforms:</h3>
 
 <p align="left">
-  <a href="https://www.archlinux.org/"><img src="https://github.com/cheesits456/cheesits456/raw/master/icons/arch.png" height="42"></a>
   <a href="https://github.com/"><img src="https://cdn.simpleicons.org/github/FFFFFF" height="42"></a>
   <a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="42"></a>
   <a href="https://www.npmjs.com"><img src="https://raw.githubusercontent.com/github/explore/main/topics/npm/npm.png" height="42"></a>
+  <a href="https://yarnpkg.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg" height="42"></a>
   <a href="https://www.sublimetext.com/"><img src="https://avatars.githubusercontent.com/u/684879?s=200&v=4" height="42"></a>
+</p>
+
+---
+
+<h3 align="left">🐧 Operating Systems:</h3>
+
+<p align="left">
+  <a href="https://www.archlinux.org/"><img src="https://github.com/cheesits456/cheesits456/raw/master/icons/arch.png" height="42"></a>
   <a href="https://ubuntu.com/"><img src="https://raw.githubusercontent.com/github/explore/main/topics/ubuntu/ubuntu.png" height="42"></a>
   <a href="https://linuxmint.com/"><img src="https://cdn.simpleicons.org/linuxmint/87CF3E" height="42"></a>
 </p>
-
 ---
 
 <h3>🌍 Languages</h3>
