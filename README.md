@@ -46,7 +46,6 @@
   <a href="https://www.sublimetext.com/"><img src="https://avatars.githubusercontent.com/u/684879?s=200&v=4" height="42"></a>
 </p>
 
----
 
 <h3 align="left">🐧 Operating Systems:</h3>
 
