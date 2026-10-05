@@ -41,7 +41,7 @@
 
 <p align="left">
   <a href="https://www.archlinux.org/"><img src="https://github.com/cheesits456/cheesits456/raw/master/icons/arch.png" height="42"></a>
-  <a href="https://github.com/"><img src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" height="42"></a>
+  <a href="https://github.com/"><img src="https://cdn.simpleicons.org/github/FFFFFF" height="42"></a>
   <a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="42"></a>
   <a href="https://www.npmjs.com"><img src="https://raw.githubusercontent.com/github/explore/main/topics/npm/npm.png" height="42"></a>
   <a href="https://www.sublimetext.com/"><img src="https://avatars.githubusercontent.com/u/684879?s=200&v=4" height="42"></a>
