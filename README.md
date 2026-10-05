@@ -72,23 +72,15 @@
 
 <p align="left">
   <img
-    height="170"
+    width="48%"
     src="https://github-readme-stats.vercel.app/api?username=Ox23du&show_icons=true&theme=github_dark&hide_border=true"
+    alt="Daemon's GitHub Stats"
   />
-
   <img
-    height="170"
+    width="48%"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ox23du&layout=compact&theme=github_dark&hide_border=true"
+    alt="Most Used Languages"
   />
-</p>
-
-<p align="left">
-  <a href="https://git.io/streak-stats">
-    <img
-      src="https://streak-stats.demolab.com?user=Ox23du&theme=github-dark-blue&hide_border=true"
-      alt="GitHub Streak"
-    />
-  </a>
 </p>
 
 ---
