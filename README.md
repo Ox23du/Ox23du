@@ -1,21 +1,7 @@
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=Ox23du" alt="Ox23du" />
-</p>
-
-<br>
-
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Software+Engineer+%7C+Full-Stack;JavaScript+%2F+TypeScript+%7C+React+%7C+Node.js;Scalable+and+maintainable+systems;Pentest+%26+Vulnerability+Analysis"
     alt="Typing SVG"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="./profile-3d-contrib.svg"
-    width="100%"
-    alt="3D GitHub Contribution Graph"
   />
 </p>
 
