@@ -101,23 +101,26 @@
 </p>
 
 ---
+---
 
 <h3 align="left">📊 GitHub Stats:</h3>
 
-<p align="left">
-  <img
-    width="48%"
-    src="https://github-readme-stats.vercel.app/api?username=Ox23du&show_icons=true&theme=github_dark&hide_border=true"
-    alt="Daemon's GitHub Stats"
-  />
-
-  <img
-    width="48%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ox23du&layout=compact&theme=github_dark&hide_border=true"
-    alt="Most Used Languages"
-  />
-</p>
-
+<table align="center">
+  <tr>
+    <td>
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=Ox23du&show_icons=true&theme=github_dark&hide_border=true"
+        alt="Daemon's GitHub Stats"
+      />
+    </td>
+    <td>
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ox23du&layout=compact&theme=github_dark&hide_border=true"
+        alt="Most Used Languages"
+      />
+    </td>
+  </tr>
+</table>
 ---
 
 <h3 align="left">🐧 Operating Systems:</h3>
