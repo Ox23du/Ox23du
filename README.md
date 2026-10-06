@@ -120,6 +120,7 @@
     </td>
   </tr>
 </table>
+
 ---
 
 <h3 align="left">🐧 Operating Systems:</h3>
