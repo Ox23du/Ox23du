@@ -91,21 +91,10 @@
 <h3 align="left">📊 GitHub Stats:</h3>
 
 <table align="center">
-  <tr>
-    <td>
-      <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ox23du&theme=github_dark"
-        alt="Daemon's GitHub Stats"
-      />
-    </td>
-
-    <td>
-      <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ox23du&theme=github_dark"
-        alt="Most Used Languages"
-      />
-    </td>
-  </tr>
+<tr>
+<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ox23du&theme=github_dark" alt="Daemon's GitHub Stats"/></td>
+<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ox23du&theme=github_dark" alt="Most Used Languages"/></td>
+</tr>
 </table>
 
 ---
