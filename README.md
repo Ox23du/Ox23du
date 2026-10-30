@@ -94,13 +94,14 @@
   <tr>
     <td>
       <img
-        src="https://github-readme-stats.vercel.app/api?username=Ox23du&show_icons=true&theme=github_dark&hide_border=true"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ox23du&theme=github_dark"
         alt="Daemon's GitHub Stats"
       />
     </td>
+
     <td>
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ox23du&layout=compact&theme=github_dark&hide_border=true"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ox23du&theme=github_dark"
         alt="Most Used Languages"
       />
     </td>
