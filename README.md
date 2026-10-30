@@ -9,7 +9,6 @@
 <h2 align="left">👨🏻‍💻 About me:</h2>
 
 > 🦈 Constantly developing personally, always striving to grow as a professional and as an individual.  
-> 💻 Software Engineer | Full-Stack  
 > • JavaScript / TypeScript  
 > • Python  
 > • Node.js  
